@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+
+.bg-trinity{
+    background-image: url("/assets/image/backdrop_UI.png");
+    background-size: 100% 100%;
+}
+
+.page-detail{
+    display: none;
+}
