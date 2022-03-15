@@ -2,8 +2,7 @@ $(document).ready(function() {
     $('.page-detail').css({'display':'none'});
 
     $(window).on('popstate', function(event) {
-        $('.page-detail').fadeOut();
-        $('.page-home').delay(400).fadeIn();
+        location.reload();
     });       
     
     $('#jkt').click(function(){
