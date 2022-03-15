@@ -34,7 +34,7 @@ $(document).ready(function() {
         $('.page-detail').delay(400).fadeIn();
 
         $('#link-catalog').attr("href", "/");
-        $('#link-instagram').attr("href", "https://www.instagram.com/trinity_artwork");
+        $('#link-instagram').attr("href", "https://www.instagram.com/trinitybali_artwork");
         $('#link-whatsapp').attr("href", "https://wa.me/+6281220095589");
         $('#link-whatsapp img').attr("src", "/assets/image/button contact Bali.png");
     })
