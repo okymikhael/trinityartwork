@@ -13,7 +13,7 @@ $(document).ready(function() {
 
         $('#link-catalog').attr("href", "/");
         $('#link-instagram').attr("href", "https://www.instagram.com/trinity_artwork");
-        $('#link-whatsapp').attr("href", "https://wa.me/+6281564601750");
+        $('#link-whatsapp').attr("href", "https://wa.me/+6281318806662");
         $('#link-whatsapp img').attr("src", "/assets/image/button contact Jakarta.png");
     })
 
@@ -35,7 +35,7 @@ $(document).ready(function() {
 
         $('#link-catalog').attr("href", "/");
         $('#link-instagram').attr("href", "https://www.instagram.com/trinity_artwork");
-        $('#link-whatsapp').attr("href", "https://wa.me/+6281564601750");
+        $('#link-whatsapp').attr("href", "https://wa.me/+6281220095589");
         $('#link-whatsapp img').attr("src", "/assets/image/button contact Bali.png");
     })
 })
