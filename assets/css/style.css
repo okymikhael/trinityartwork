@@ -3,8 +3,19 @@ body{
 }
 
 .bg-trinity{
-    background-image: url("/assets/image/backdrop_UI.png");
+    background-image: url("/assets/image/backdrop UI kosong.png");
     background-size: 100% 100%;
+}
+
+.logo{
+    background-image: url("/assets/image/logo.png");
+    background-size: 100% 100%;
+    z-index: 100;
+    position: absolute;
+    height: 57px;
+    width: 114px;
+    bottom: 0;
+    margin-bottom: 100px;
 }
 
 .page-detail{
