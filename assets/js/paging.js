@@ -7,6 +7,7 @@ $(document).ready(function() {
     });       
     
     $('#jkt').click(function(){
+        window.history.pushState({href: '/'}, '', '/')
         $('.page-home').fadeOut('fast');
         $('.page-detail').delay(400).fadeIn();
 
@@ -17,6 +18,7 @@ $(document).ready(function() {
     })
 
     $('#bdg').click(function(){
+        window.history.pushState({href: '/'}, '', '/')
         $('.page-home').fadeOut('fast');
         $('.page-detail').delay(400).fadeIn();
 
@@ -27,6 +29,7 @@ $(document).ready(function() {
     })
 
     $('#dps').click(function(){
+        window.history.pushState({href: '/'}, '', '/')
         $('.page-home').fadeOut('fast');
         $('.page-detail').delay(400).fadeIn();
 
