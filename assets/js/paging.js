@@ -10,7 +10,7 @@ $(document).ready(function() {
         $('.page-home').fadeOut('fast');
         $('.page-detail').delay(400).fadeIn();
 
-        $('#link-catalog').attr("href", "/");
+        $('#link-catalog').attr("href", "https://docs.google.com/gview?embedded=true&url=https://trinityartwork.vercel.app/assets/catalog/jakarta.pdf");
         $('#link-instagram').attr("href", "https://www.instagram.com/trinity_artwork");
         $('#link-instagram img').attr("src", "/assets/image/button IG baru.png");
         $('#link-whatsapp').attr("href", "https://wa.me/+6281318806662");
@@ -22,7 +22,7 @@ $(document).ready(function() {
         $('.page-home').fadeOut('fast');
         $('.page-detail').delay(400).fadeIn();
 
-        $('#link-catalog').attr("href", "/");
+        $('#link-catalog').attr("href", "https://docs.google.com/gview?embedded=true&url=https://trinityartwork.vercel.app/assets/catalog/bandung.pdf");
         $('#link-instagram').attr("href", "https://www.instagram.com/trinity_artwork");
         $('#link-instagram img').attr("src", "/assets/image/button IG baru.png");
         $('#link-whatsapp').attr("href", "https://wa.me/+6281564601750");
